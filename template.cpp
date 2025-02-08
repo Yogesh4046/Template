@@ -42,6 +42,7 @@ void solve(){
 }   
 
 int main(){
+    fastio();
     //testcases();
     // solve();
     return 0;
